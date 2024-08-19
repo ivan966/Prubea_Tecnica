@@ -4,6 +4,7 @@ Este proyecto tiene 2 carpetas, una es la conexion con la base de datos /server 
 
 ## Iniciar el Crud
 en la terminal navegamos hasta estar dentro de la carpeta client y ejecutamos
+### `npm install`
 ### `npm start`
 Abrimos [http://localhost:3000](http://localhost:3000) en el navegador.
 
