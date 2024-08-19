@@ -8,7 +8,7 @@ en la terminal navegamos hasta estar dentro de la carpeta client y ejecutamos
 Abrimos [http://localhost:3000](http://localhost:3000) en el navegador.
 
 ### creamos la base de datos, en este proyecto fue utilizado mysql<br>
-Ejecutamos el siguiente codigo que esta entre llaves en la base de datos de preferencia para crear las tablas
+Ejecutamos el siguiente codigo que esta entre llaves en la base de datos de preferencia para crear las tablas<br>
 {
 CREATE DATABASE IF NOT EXISTS `usuario_crud` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
 USE `usuario_crud`;
