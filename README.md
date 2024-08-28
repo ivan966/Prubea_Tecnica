@@ -1,4 +1,4 @@
-# Iniciar el Peyecto
+# Iniciar el Proyecto
 
 Este proyecto tiene 2 carpetas, una es la conexion con la base de datos /server y el otro todo el crud /client
 
